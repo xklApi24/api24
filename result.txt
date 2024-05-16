@@ -1,0 +1,8 @@
+test_long_01 (dome°¸Àı.test.case.user.testlogin.MyTestCase) ... ok
+test_reg_ok (dome°¸Àı.test.case.user.test_xzs_reg.MyTestCase) ... ok
+test_reg_err (dome°¸Àı.test.case.user.test_xzs_reg.MyTestCase) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.299s
+
+OK
